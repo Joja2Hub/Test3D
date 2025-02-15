@@ -1,0 +1,38 @@
+# Игнорируем папки, генерируемые Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Игнорируем пользовательские настройки
+UserSettings/
+*.userprefs
+
+# Игнорируем кешированные файлы Lightmapping
+LightmapSnapshot/
+
+# Игнорируем локальные настройки
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Git LFS для больших файлов
+*.psd
+*.fbx
+*.png
+*.jpg
+*.mp3
+*.wav
+*.mp4
